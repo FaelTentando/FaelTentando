@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meus Produtos Afiliados</title>
+</head>
+<body>
+    <h1>Meus Produtos Afiliados</h1>
+    <ul>
+        <li><a href="URL_DO_PRODUTO_1" target="_blank">Produto 1</a></li>
+        <li><a href="URL_DO_PRODUTO_2" target="_blank">Produto 2</a></li>
+        <li><a href="URL_DO_PRODUTO_3" target="_blank">Produto 3</a></li>
+    </ul>
+</body>
+</html>
